@@ -29,3 +29,6 @@ The goal of Blockweave Engine is to provide a modular, extensible component that
 ✅ Export this entire project as a ZIP  
 
 Would you like any of those?
+contract address: 0x962Cc1ED36e2AF6236B19d4Ad1C5c20eF4dA7c30
+<img width="1910" height="1003" alt="Screenshot 2025-11-28 103348" src="https://github.com/user-attachments/assets/ea48728a-b6d3-4d54-8eab-7eea71e12331" />
+
